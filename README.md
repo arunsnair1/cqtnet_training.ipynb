@@ -17,4 +17,4 @@ The pipeline processes raw `.mp3` files into Constant-Q Transform (CQT) spectrog
 3. `python train.py`
 
 ## Pre-trained Model
-The final model weights achieve >95% accuracy and are hosted on HuggingFace at `aruncodeshere/cqtnet-indian-music`.
+The final model weights achieve >94% accuracy and are hosted on HuggingFace at `aruncodeshere/cqtnet-indian-music`.
